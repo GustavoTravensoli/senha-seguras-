@@ -1,0 +1,1 @@
+document.querySelectorAll('.parametro-senha__texto')
